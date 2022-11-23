@@ -1,0 +1,19 @@
+.page-title {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.main-info {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+body {
+    margin: 0;
+}
+
+.whole-page {
+    background-image: url("record.png");
+    background-repeat: repeat;
+}
